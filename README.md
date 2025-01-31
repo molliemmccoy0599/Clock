@@ -173,10 +173,12 @@ Dachshund clock, based on the popular Kit-Cat Clock
 https://github.com/user-attachments/assets/1a287248-c4bd-4eab-9bf9-f3d6be2c67f2
 
 ## Overview
+I had alot of fun yet challenge with this project. I came at it initially with an incredibly basic idea; a 90s vintage clock. I then decided I wanted to make it a little more fun and thought of my Kit-Cat clock which is the iconic cat clocks from the 1930's. I then wanted to add my own twist to it of making it into my dog instead of the classic cat.
 
 ## Users 
+Dachshund owners such as myself would be the users in this case with it being a cute decorative piece to go in ones home, or in digital form on someones desktop if converted into such a form.
 
 ## Learning 
-
+I learned that Claude.ai definitley struggles with time and the concept of clocks to a degree, I had to ask it several times to make adjusts. I also learned that the most basic design isnt always it, I have been reflecting on the idea of "this is supposed to be fun" and trying to allow myself to do so. 
 
 
